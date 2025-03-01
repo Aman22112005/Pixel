@@ -112,7 +112,7 @@ void freePixels(struct Pixel *head) {
 
 int main()
 {
-    struct pixel *pix[ROW];
+    struct Pixel *pix[ROW];
     for (int i = 0; i < ROW; i++)
     {
         pix[i] = NULL;
