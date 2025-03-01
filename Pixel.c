@@ -15,13 +15,9 @@ enum color
     ylw,
     blu,
     ppl,
-
     cyn,
-
     wit,
-
     blk
-
 };
 
 
